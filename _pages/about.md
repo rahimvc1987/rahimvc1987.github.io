@@ -1,3 +1,11 @@
+---
+permalink: /
+title: "About me"
+author_profile: true
+redirect_from:
+  - /about/
+---
+
 I am **Dr. Abdul Rahim V. C.**, Assistant Professor in the Department of Communication Engineering, School of Electronics Engineering (SENSE), VIT Vellore, India.
 
 My research interests include:
